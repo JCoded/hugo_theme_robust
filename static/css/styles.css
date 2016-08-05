@@ -187,10 +187,6 @@ section>div {
 }
 
 /* Parts:article */
-article {
-  word-break: break-all;
-}
-
 article>a {
   display: block;
 }
